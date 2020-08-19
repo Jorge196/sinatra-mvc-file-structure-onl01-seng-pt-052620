@@ -3,6 +3,8 @@ class Dog
   @@all = []
 
   def initlaiztion
-    
+    @name = name
+    @breed = breed
+    @age = age
   end
 end
